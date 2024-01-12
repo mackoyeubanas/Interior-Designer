@@ -4,7 +4,7 @@ This repository hosts the source code for a comprehensive portfolio exemplifying
 
 From conceptualization to execution, each project narrates a unique story, reflecting the seamless amalgamation of aesthetics, functionality, and innovation.
 
-The project is available on link: https://interior-designer-website.onrender.com/
+The project is available on link: 
 
 ![Project Preview](screens/screen-1.png)
 
