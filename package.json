@@ -21,7 +21,7 @@
     },
     "scripts": {
         "predeploy": "npm test",
-        "deploy": "surge ./path/to/dist",
+        "deploy": "surge /public",
         "start": "react-scripts start",
         "build": "react-scripts build",
         "test": "react-scripts test",
