@@ -4,7 +4,7 @@ This repository hosts the source code for a comprehensive portfolio exemplifying
 
 From conceptualization to execution, each project narrates a unique story, reflecting the seamless amalgamation of aesthetics, functionality, and innovation.
 
-The project is available on link: 
+The project is available on link: https://interior-designer-website.onrender.com/
 
 ![Project Preview](screens/screen-1.png)
 
@@ -19,7 +19,7 @@ The project is available on link:
 
 ## Installation and Local Setup
 
-1. Clone this repository: `git clone https://github.com/mackoyeubanas/Interior-Designer.git`
+1. Clone this repository: `git clone https://github.com/JoannaPatyk/interior-designer.git`
 2. Navigate to the project directory: `cd interior-designer`
 3. Install dependencies: `npm install`
 4. Run the project locally: `npm start`
