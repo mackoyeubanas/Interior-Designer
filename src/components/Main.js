@@ -2,7 +2,7 @@ import React from 'react';
 import Logo from '../components/Logo';
 import Menu from '../components/Menu';
 
-import background from '../assets/img/flowers.png';
+import background from '../assets/img/flowers.jpg';
 import Wrapper from '../assets/wrappers/Landing';
 
 let sectionStyle = {

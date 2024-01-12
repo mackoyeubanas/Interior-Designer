@@ -1,6 +1,6 @@
 import React from 'react';
 import Wrapper from '../assets/wrappers/Contact';
-import background from '../assets/img/flowers.png';
+import background from '../assets/img/flowers.jpg';
 
 let sectionStyle = {
     position: 'absolute',
