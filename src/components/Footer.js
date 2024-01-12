@@ -12,8 +12,8 @@ function Footer() {
                         <p>Manila, Philippines </p>
                     </div>
                     <div className="footer-text-element">
-                        <h2>Kontakt</h2>
-                        <p>tel: (+63) 960 259 4000</p>
+                        <h2>Contact</h2>
+                        <p>Cell no.: (+63) 960 259 4000</p>
                         <p>email: meubanas@gmail.com</p>
                     </div>
                     <div className="footer-text-element">
